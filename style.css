@@ -1,0 +1,10 @@
+.boton{
+    background: rgb(241, 82, 162) !important;
+    border: none !important;
+    box-shadow: none;
+    border-radius: 20px !important;
+    font-size: 12px !important;
+    color: white !important;
+    padding: 10px;
+    width: 130px;
+}
